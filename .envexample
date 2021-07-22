@@ -1,0 +1,7 @@
+DATABASE_HOST=yourhist
+DATABASE_NAME=yourdbname
+DATABASE_PASSWORD=yourdbpass
+DATABASE_PORT=yourdbname
+DATABASE_USER=yours
+PORT=yourdbport
+USER_TOKEN=yoursecrettoken
